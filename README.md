@@ -116,8 +116,8 @@ Battleships/
 ```
 
 ## 🎵 Audio Credits
-opengameart
-Sound effects and music are included for an immersive gaming experience.
+Intro Music : Victory Fanfare Short , http://cynicmusic.com http://pixelsphere.org
+Sound Effects : Battle at sea Bundle , https://opengameart.org/content/battle-at-sea
 
 ## 🔍 Code Highlights
 
