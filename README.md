@@ -52,7 +52,12 @@ cd Battleships-Tactical
 
 2. Install required packages:
 ```bash
-pip install pygame termcolor pyfiglet
+pip install
+pygame>=2.1.2
+appdirs>=1.4.4
+termcolor>=2.1.0
+pyfiglet>=0.8.0
+keyboard>=0.13.5
 ```
 
 3. Run the game:
