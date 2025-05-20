@@ -46,8 +46,8 @@ A modern, feature-rich implementation of the classic Battleships game designed f
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/zylo-X/Python-Games.git
-cd Python-Games/Battleships
+git clone https://github.com/zylo-X/Battleships-Tactical.git
+cd Battleships-Tactical
 ```
 
 2. Install required packages:
